@@ -1,7 +1,8 @@
+/*
 José Sebastian Carvajal Aguilera
 fecha: 11/09/2025
 Descripcion: consultas basicas en la base de datos Nobel
-
+*/
 
 /*
 Pregunta 1 Winners from 1950 
